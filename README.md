@@ -1,3 +1,5 @@
+![Header Image](header.png)
+
 ## Hi there 👋
 I'm MythicSorcerer,
 
