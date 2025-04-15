@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm MythicSorcerer, but you can call me mythic.
 
-I'm currently working on [mythic.ddns.net](mythic.ddns.net), my website, which is sort of lacking in.... a lot of things
+I'm currently working on [mythic.ddns.net](https://mythic.ddns.net), my website, which is sort of lacking in.... a lot of things
 You can reach me via mythic_sorcerer on discord or email me at rustysparklymonkey@gmail.com
 
 My pronouns are he/him
