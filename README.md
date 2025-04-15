@@ -1,6 +1,6 @@
 ![Header Image](header.png)
-
-## Hi there 👋
+##-
+Hi there 👋
 I'm MythicSorcerer,
 
 I'm currently working on [mythic.ddns.net](https://mythic.ddns.net), my website, which is sort of lacking in.... a lot of things
