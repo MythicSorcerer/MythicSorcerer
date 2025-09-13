@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm MythicSorcerer,
 
-I'm currently working on [zenon.hopto.org](https://zenon.hopto.org), my website, which is sort of lacking in.... a lot of things
+I'm currently working on [xenon.hopto.org](https://xenon.hopto.org), my website, which is sort of lacking in.... a lot of things
 You can reach me via mythic_sorcerer on discord or email me at rustysparklymonkey@gmail.com
 
 My pronouns are he/him
