@@ -3,11 +3,11 @@
 I'm MythicSorcerer,
 
 I'm currently working on [xenon.hopto.org](https://xenon.hopto.org), my website, which is sort of lacking in.... a lot of things
-You can reach me via mythic_sorcerer on discord or email me at rustysparklymonkey@gmail.com
+You can reach me via mythic_sorcerer on discord or email me at rustysparklymonkey@gmail.com. I also have a minecraft server at the same IP.
 
 My pronouns are he/him
 
-- Mythic
+
 
 <!--
 **MythicSorcerer/MythicSorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
