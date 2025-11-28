@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm MythicSorcerer,
 
-I'm currently working on [azox](https://azox.net), my website, which is sort of lacking in.... a lot of things
+I'm currently working on [azox.net](https://azox.net), my website, which is sort of lacking in.... a lot of things
 You can reach me via mythic_sorcerer on discord or email me at mythicsorcerer@gmail.com. I also have a minecraft server at the same IP.
 
 My pronouns are he/him
