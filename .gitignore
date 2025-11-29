@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+.localized
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
