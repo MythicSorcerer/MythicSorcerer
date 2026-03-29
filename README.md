@@ -1,26 +1,32 @@
 ![Header Image](header.png)
-```./init.sh```
-## Hi there 👋
-I'm MythicSorcerer,
 
-I'm currently working on [azox.net](https://azox.net), my website, which is sort of lacking in.... a lot of things
-You can reach me via mythic_sorcerer on discord or email me at mythicsorcerer@gmail.com. I also have a minecraft server at the same IP.
+# Hi there! I'm Mythic 👋
 
-My pronouns are he/him
+I'm a developer focused on building tools and games for macOS, managing Minecraft communities, and developing web experiences. I spend most of my time in **Vim**, working across Swift, Java, and PHP.
 
-Fun fact: Posting large projects on github comes with an inherent security risk of accidentally including sensitive info including API keys. I should know, I posted my discord bot's security token, and my maxmind key on github and got 3 emails withing 5 minuites, one from discord saying they disabled my key and I should never do that again, one from maxmind saying they found my key on the internet, one from github saying i posted a bunch of stuff i shouldn't have. 
+---
 
-<!--
-**MythicSorcerer/MythicSorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack & Projects
 
-Here are some ideas to get you started:
+#### 🍎 Apple Ecosystem (Swift)
+* **[Project-Hydra](https://github.com/MythicSorcerer/Project-Hydra):** Developing macOS games and utility tools with a focus on performance and native experience.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎮 Minecraft & Backend (Java)
+* **[azox-utils](https://github.com/MythicSorcerer/azox-utils):** A comprehensive "vibe code" plugin that consolidates essential features from multiple mods into one streamlined tool.
+* **[nbt-editor](https://github.com/MythicSorcerer/nbt-editor):** Direct NBT manipulation for server-side management.
+
+#### 🌐 Web Development (PHP & JS)
+* **[azox.net](https://azox.net):** My personal hub and project home.
+* **[xenon-www](https://github.com/MythicSorcerer/xenon-www):** A futuristic web interface built with PHP.
+
+---
+
+### ⚡ Fun Fact
+Posting large projects to GitHub comes with an inherent security risk. I once accidentally pushed my Discord bot token and MaxMind key—I received three "stop what you're doing" emails from Discord, MaxMind, and GitHub within five minutes. Lesson learned: `.gitignore` is my best friend.
+
+### 📫 Reach Me
+* **Discord:** `mythic_sorcerer`
+* **Email:** [mythicsorcerer@gmail.com](mailto:mythicsorcerer@gmail.com)
+* **Minecraft:** Join me at the same IP as my website!
+
+---
