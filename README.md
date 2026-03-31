@@ -22,7 +22,7 @@ I'm a developer focused on building tools and games for macOS, managing Minecraf
 ---
 
 ### ⚡ Fun Fact
-Posting large projects to GitHub comes with an inherent security risk. I once accidentally pushed my Discord bot token and MaxMind key—I received three "stop what you're doing" emails from Discord, MaxMind, and GitHub within five minutes. Lesson learned: `.gitignore` is my best friend.
+Posting large projects to GitHub comes with an inherent security risk. I once accidentally pushed my Discord bot token and MaxMind key—I received three "stop what you're doing" emails from Discord, MaxMind, and GitHub within five minutes. Lesson learned: `.gitignore` exists for a reason.
 
 ### 📫 Reach Me
 * **Discord:** `mythic_sorcerer`
