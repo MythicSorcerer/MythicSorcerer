@@ -10,6 +10,7 @@ I'm a developer focused on building tools and games for macOS, managing Minecraf
 
 #### 🍎 Apple Ecosystem (Swift)
 * **[Project-Hydra](https://github.com/MythicSorcerer/Project-Hydra):** Developing macOS games and utility tools with a focus on performance and native experience.
+* **[Azox-Macros](https://github.com/MythicSorcerer/Azox-Macros):** Building my own autoclicker with bonus features I always thought an autoclicker should have.
 
 #### 🎮 Minecraft & Backend (Java)
 * **[azox-utils](https://github.com/MythicSorcerer/azox-utils):** A comprehensive "vibe code" plugin that consolidates essential features from multiple mods into one streamlined tool.
