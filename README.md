@@ -32,6 +32,11 @@ I'm a full stack developer, designer, researcher, and a high school student. I b
 ### ⚙️ Tools & Hardware
 [![Tools](https://skillicons.dev/icons?i=vim,vscode,neovim,raspberrypi,npm,arduino&theme=dark)](https://skillicons.dev)
 
+### Contact
+email: mythicsorcerer@gmail.com
+website: azox.net/about
+reddit: mythic_sorcerer
+
 ### 🚀 Currently...
 - 🏗️ **Building:**
   - A cross platform productivity tracker
