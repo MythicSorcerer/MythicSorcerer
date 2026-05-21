@@ -34,7 +34,7 @@ I'm a full stack developer, designer, researcher, and a high school student. I b
 
 ### Contact
 - email: mythicsorcerer@gmail.com
-- website: azox.net/about
+- website: mythic.is-a.dev
 - reddit: mythic_sorcerer
 
 ### 🚀 Currently...
